@@ -1,7 +1,7 @@
 // Box width
-var bw = 400;
+var bw = 1000;
 // Box height
-var bh = 400;
+var bh = 480;
 // Padding
 var p = 10;
 
