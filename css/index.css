@@ -1,0 +1,10 @@
+body {
+    background: lightblue;
+    margin: auto;
+    max-width: 800px;
+}
+
+canvas {
+    background: #fff;
+    
+}
